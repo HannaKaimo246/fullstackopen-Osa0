@@ -34,4 +34,4 @@ sequenceDiagram:
     Note right of browser: The browser executes the callback function that renders the notes 
 
      
-0.6:  Tee kaavio tilanteesta, jossa käyttäjä luo uuden muistiinpanon single page ‑versiossa.
+Tehtävä 0.6:  Tee kaavio tilanteesta, jossa käyttäjä luo uuden muistiinpanon single page ‑versiossa.
